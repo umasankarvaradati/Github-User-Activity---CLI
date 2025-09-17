@@ -78,3 +78,7 @@ If the username is invalid or there is an issue fetching data from GitHub, an er
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+Inspired from [GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity)
