@@ -33,17 +33,19 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the script with a GitHub username as an argument:
+Run the tool with a GitHub username as an argument using the provided batch file (for Windows):
 
 ```bash
-python main.py <GitHubUsername>
+github-activity <GitHubUsername>
 ```
 
 Example:
 
 ```bash
-python main.py umasankarvaradati
+github-activity umasankarvaradati
 ```
+
+**Note for Windows users:** Use the `github-activity.bat` file to run the tool, which sets up the virtual environment automatically.
 
 ## Output
 
